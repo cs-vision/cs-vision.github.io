@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Shi Chen (陈实/陳 実). I am currently a master student in Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html). Previously, I obtained my Bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was supervised by [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html) for my thesis.
+Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am currently a master student in Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html). Previously, I obtained my Bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was supervised by [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html) for my thesis.
 
 I am interested in 3D vision in general, in particular 3D/4D reconstruction and SLAM. My long-term goal is to make possible an immersive, interactive and physically-plausible digital copy of the dynamic world. 
 

@@ -13,8 +13,8 @@ I am interested in 3D vision in general, in particular 3D/4D reconstruction and 
 
 # Education
 
-* 2022 - Present, M.Sc., Electrical Engineering and Information Technology, ETH Zurich, Switzerland.
-* 2018 - 2022, B.Eng., Electrical and Electronic Engineering, Kyoto University, Japan.
+* 2022 - Present, M.Sc. Electrical Engineering and Information Technology, ETH Zurich, Switzerland.
+* 2018 - 2022, B.E. Electrical and Electronic Engineering, Kyoto University, Japan.
 
 # Selected Projects
 

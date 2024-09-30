@@ -29,6 +29,17 @@ Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald),
 * Incorporated various real-world priors to compensate for the lack of multiview information
 
 
+## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM
+Semester project in Fall 2022\
+Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html)\
+[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
+
+<img src="../images/teaser recording_480p_high.gif" alt="Project Profile" width="600px"> 
+
+* Integrated event input into the [NICE-SLAM](https://pengsongyou.github.io/nice-slam) pipeline to for more robust camera tracking in challenging scenarios involving fast camera motion or low frame rates.
+* Quantitative evaluations demonstrate that EvenNICER-SLAM significantly outperforms NICE-SLAM in scenarios with reduced RGB-D input frequency.
+
+
 ## NeRaser: NeRF-based 3D Object Eraser
 Course Project for [Mixed Reality](https://cvg.ethz.ch/lectures/Mixed-Reality/)\
 <strong>Shi Chen</strong>, Liuxin Qing, Shao Zhou, Xichong Ling\
@@ -39,17 +50,6 @@ Advisors: [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc
 
 * Built upon [nerfstudio](https://docs.nerf.studio/) an interactive framework for object removal from 3D NeRF-represented scenes.
 * Applied a 3D-aware inpainting strategy to ensure multiview visual consistency.
-
-
-## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM
-Semester project in Fall 2022\
-Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html)\
-[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
-
-<img src="../images/teaser recording_480p_high.gif" alt="Project Profile" width="600px"> 
-
-* Integrated event input into the [NICE-SLAM](https://pengsongyou.github.io/nice-slam) pipeline to for more robust camera tracking in challenging scenarios involving fast camera motion or low frame rates.
-* Quantitative evaluations demonstrate that EvenNICER-SLAM significantly outperforms NICE-SLAM in scenarios with reduced RGB-D input frequency.
 
 
 ## Hierarchical Dense Neural Point Cloud-based SLAM
@@ -81,7 +81,7 @@ Supervisor: [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.h
 
 ## Road Scene Pedestrian Relocation for Data Augmentation
 Bachelor's thesis\
-Supervisors: [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html), [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/)\
+Supervisors: [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html)\
 [[Slides](https://docs.google.com/presentation/d/1bg_G56CoQo9WNpZ6m22G0dT58Pk4f-1t/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/18VdXkPMt8bhMKF_6RRhEXWqs8JwxN1KQ/view?usp=sharing)]
 
 <img src="../images/ped_relocation_demo.gif" alt="Project Profile" width="600px"> 

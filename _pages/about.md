@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am currently a master student in Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html). Previously, I obtained my Bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was supervised by [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html) for my thesis.
+Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am currently pursuing a master's degree in Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html). Previously, I completed my Bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked on my thesis under the supervision of [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html).
 
-I am interested in 3D vision in general, in particular 3D/4D reconstruction and SLAM. My long-term goal is to make possible an immersive, interactive and physically-plausible digital copy of the dynamic world. 
+My research interests lie in 3D vision, particularly in 3D/4D reconstruction and SLAM. My current goal is to enable the creation of immersive, interactive, and physically plausible digital copies of the dynamic world. Beyond that, I am fascinated by the idea of endowing machines with [spatial intelligence](https://www.worldlabs.ai/about).
 
 # Education
 
@@ -23,9 +23,13 @@ Semester project in spring 2024
 
 Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald), [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)
 
+[[Slides](https://docs.google.com/presentation/d/1ZZd8p6BkW4RnKngYMYzRbbVutVYvALn3/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1gT9UEBXINQKWijlRGbQHlopQxDnClZ-u/view?usp=sharing)]
+
 <img src="../images/tum_sitting_render_compressed.gif" alt="Project Profile" width="600px"> 
 
-In this project, we attempt to address the challenge of online modelling of dynamic scenes from monocular RGB-D inputs. Traditional methods for dynamic scene reconstruction often rely on extensive multi-view coverage or operate in an offline manner, which limits their accessibility and interactability in potential application scenarios such as Mixed Reality. To overcome these limitations, we propose MonoDy-GS, an online system that uses 3D Gaussians as the underlying representation to model dynamic scenes. Our approach incorporates several priors based on real-world scene dynamics to compensate for the lack of multi-view information inherent in monocular setups. This enables the system to track and model scene deformations incrementally. We validate the effectiveness of MonoDy-GS in modelling scene dynamics through a series of qualitative and quantitative experiments.
+* An online system using 3D Gaussians to model dynamic scenes from monocular RGB-D inputs.
+* Incorporated various real-world priors to compensate for the lack of multiview information
+
 
 ## NeRaser: NeRF-based 3D Object Eraser
 Course Project for [Mixed Reality](https://cvg.ethz.ch/lectures/Mixed-Reality/)
@@ -34,26 +38,68 @@ Course Project for [Mixed Reality](https://cvg.ethz.ch/lectures/Mixed-Reality/)
 
 Advisor: [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/)
 
-[[Demo](https://www.youtube.com/watch?v=cF8qTAb9TMs)]
+[[Demo](https://www.youtube.com/watch?v=cF8qTAb9TMs)][[Poster](https://drive.google.com/file/d/1s0A6tukIOOqnCD_Sq6JF1spPGzSTJNLw/view?usp=sharing)][[Report](https://drive.google.com/file/d/11ozGs9gKk1vGQTCfQqfgEIlClzP-ZeV1/view?usp=sharing)][[Code](https://github.com/MixedRealityETHZ/Let-Objects-vanish-)]
+
+<img src="../images/MR_Demo_480p_high.gif" alt="Project Profile" width="600px">
+
+* Built upon [nerfstudio](https://docs.nerf.studio/) an interactive framework for object removal from 3D NeRF-represented scenes.
+* Applied a 3D-aware inpainting strategy to ensure multiview visual consistency.
+
 
 ## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM
 Semester project in fall 2022
 
 Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html)
 
+[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
+
 <img src="../images/teaser recording_480p_high.gif" alt="Project Profile" width="600px"> 
 
-The advancement of dense visual simultaneous localization and mapping (SLAM) has been greatly facilitated
-by the emergence of neural implicit representations. Neural implicit encoding SLAM, a typical example
-of which is NICE-SLAM, has recently demonstrated promising results in large-scale indoor scenes. However,
-these methods typically rely on temporally dense RGB-D image streams as input in order to function
-properly. When the input source does not support high frame rates or the camera movement is too fast, these
-methods often experience crashes or significant degradation in tracking and mapping accuracy. In this project,
-we propose EvenNICER-SLAM, a novel approach that addresses this issue through the incorporation of event
-cameras. Event cameras are a novel type of bio-inspired cameras that respond to intensity changes instead of
-absolute brightness. Specifically, we integrated an event loss backpropagation stream into the NICE-SLAM
-pipeline to enhance camera tracking with insufficient RGB-D input. We found through quantitative evaluation
-that EvenNICER-SLAM, with an inclusion of higher-frequency event image input, significantly outperforms
-NICE-SLAM with reduced RGB-D input frequency. Our results suggest the potential for event cameras to
-improve the robustness of dense SLAM systems against fast camera motion in real-world scenarios.
+* Integrated event input into the [NICE-SLAM](https://pengsongyou.github.io/nice-slam) pipeline to for more robust camera tracking in challenging scenarios involving fast camera motion or low frame rates.
+* Quantitative evaluations demonstrate that EvenNICER-SLAM significantly outperforms NICE-SLAM in scenarios with reduced RGB-D input frequency.
 
+
+## Hierarchical Dense Neural Point Cloud-based SLAM
+Course project for [3D Vision](https://cvg.ethz.ch/lectures/3D-vision/2023)
+
+<strong>Shi Chen</strong>, Guo Han, Liuxin Qing, Longteng Duan
+
+Advisors: [Dr. Erik Sandström](https://www.linkedin.com/in/eriksandstr%C3%B6m/?originalSubdomain=ch), [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald)
+
+[[Poster](https://drive.google.com/file/d/1wzSkARcx3P5Qbd0TNvlhbOsPUoHj2Vzi/view?usp=sharing)][[Report](https://drive.google.com/file/d/1FDcjKHl6FhQvz8U-Jh4meelX7jyZOCw5/view?usp=sharing)][[Code](https://github.com/guo-han/Hierarchical-Point-SLAM)]
+
+<img src="../images/pipeline.png" alt="Project Profile" width="600px"> 
+
+<img align="center"  src="../images/master.png" width="300px">  <img align="center"  src="../images/ours.png"  width="280px">
+
+A comparison of the resulting neural point cloud reconstructed from ScanNet scene 0181. <br> (Left: Point-SLAM. Right: Ours)
+
+* Built upon [Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) a coarse-to-fine-optimization strategy leveraging multiple sets of point cloud with varying resolutions.
+* Improved tracking robustness against real-world imaging effects such as motion blur and specularities.
+
+
+## Monocular Visual Odometry
+Course Project for [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html)
+
+<strong>Shi Chen</strong>, Bowei Liu, Hanyu Wu, Kehan Wen
+
+Supervisor: [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html)
+
+[[Demo(KITTI)](https://youtu.be/Vox3zYr6nsY)][[Demo(Malaga)](https://youtu.be/7Sj3SLY8QuU)][[Demo(Parking)](https://youtu.be/MsBfpxU7oRM)][[Report](https://drive.google.com/file/d/13bDmpGg9LLla7kAKFer-LkE74iFlOdF1/view?usp=sharing)]
+
+<img src="../images/short_demo_vamr_1080p_clipped.gif" alt="Project Profile" width="600px"> 
+
+* Implemented in MATLAB a monocular feature-matching-based visual odometry pipeline.
+
+
+## Road Scene Pedestrian Relocation for Data Augmentation
+Bachelor's thesis
+
+Supervisors: [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html), [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/)
+
+[[Slides](https://docs.google.com/presentation/d/1bg_G56CoQo9WNpZ6m22G0dT58Pk4f-1t/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/18VdXkPMt8bhMKF_6RRhEXWqs8JwxN1KQ/view?usp=sharing)]
+
+<img src="../images/ped_relocation_demo.gif" alt="Project Profile" width="600px"> 
+
+* Devised data augmentation method that automatically cuts out large-scale pedestrians in foreground of road-scene videos and relocates them at farther positions with correct scale and occlusion.
+* Proposed method improves Mask R-CNN in both detection and instance segmentation of far-away pedestrians.

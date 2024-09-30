@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shi Chen's Personal Website"
+title: "Shi Chen"
 author_profile: true
 redirect_from: 
   - /about/

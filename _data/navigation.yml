@@ -23,7 +23,8 @@ main:
     url: "#selected-projects"
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: https://drive.google.com/file/d/1RP-ActqHYWyib5ZSr3jJaQiHdnBvolN_/view?usp=sharing
     
   # - title: "Guide"
   #   url: /markdown/

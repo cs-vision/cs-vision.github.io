@@ -21,7 +21,7 @@ repository               : "cs-vision.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "facebook_profile.jpg"
   name             : "Shi Chen"
   pronouns         : # example: "she/her"  
   bio              : "MSc in Electrical Engineering and Information Technology at ETH Zurich"

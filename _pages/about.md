@@ -88,3 +88,8 @@ Supervisors: [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), [Prof. Sho
 
 * Devised data augmentation method that automatically cuts out large-scale pedestrians in foreground of road-scene videos and relocates them at farther positions with correct scale and occlusion.
 * Proposed method improves Mask R-CNN in both detection and instance segmentation of far-away pedestrians.
+
+<!-- <div style="position: relative; width: 50%;"> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y25n2MtaECuXONMSqo0Fre6WDGJdufXd4bRMP2MIYxg&cl=ffffff&w=a" width="200px">
+</script>
+<!-- </div> -->

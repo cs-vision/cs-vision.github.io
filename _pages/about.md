@@ -32,7 +32,7 @@ Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald),
 ## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM
 Semester project in Fall 2022\
 Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html)\
-[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
+[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[arXiv](https://arxiv.org/abs/2410.03812)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
 
 <img src="../images/teaser recording_480p_high.gif" alt="Project Profile" width="600px"> 
 

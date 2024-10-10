@@ -24,7 +24,8 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: https://drive.google.com/file/d/1XJ9g0-7A-V_fhtpKqVGlIVmzY9CIgMq8/view?usp=sharing
+    # url: https://drive.google.com/file/d/1XJ9g0-7A-V_fhtpKqVGlIVmzY9CIgMq8/view?usp=sharing
+    url: /files/Resume_ShiChen.pdf
     
   # - title: "Guide"
   #   url: /markdown/

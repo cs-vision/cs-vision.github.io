@@ -32,7 +32,7 @@ Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald),
 ## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM
 Semester project in Fall 2022\
 Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html)\
-[[Slides](https://docs.google.com/presentation/d/1IT3soveZASQ7xZXn68_chInXzuQnbhkI/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1N0rIO5shL_q5LIE0GQmCidqI0XVbkIFN/view?usp=sharing)][[arXiv](https://arxiv.org/abs/2410.03812)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
+[[Slides](/files/EvenNICER-SLAM_Presentation_ShiChen.pdf)][[Report](/files/Semester_Project_Report_ShiChen.pdf)][[arXiv](https://arxiv.org/abs/2410.03812)][[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
 
 <img src="../images/teaser recording_480p_high.gif" alt="Project Profile" width="600px"> 
 
@@ -44,7 +44,7 @@ Advisors: [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/), [Prof. Lu
 Course Project for [Mixed Reality](https://cvg.ethz.ch/lectures/Mixed-Reality/)\
 <strong>Shi Chen</strong>, Liuxin Qing, Shao Zhou, Xichong Ling\
 Advisors: [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)\
-[[Demo](https://www.youtube.com/watch?v=cF8qTAb9TMs)][[Poster](https://drive.google.com/file/d/1s0A6tukIOOqnCD_Sq6JF1spPGzSTJNLw/view?usp=sharing)][[Report](https://drive.google.com/file/d/11ozGs9gKk1vGQTCfQqfgEIlClzP-ZeV1/view?usp=sharing)][[Code](https://github.com/MixedRealityETHZ/Let-Objects-vanish-)]
+[[Demo](https://www.youtube.com/watch?v=cF8qTAb9TMs)][[Poster](/files/poster.pdf)][[Report](/files/Mixed_Reality_Report.pdf)][[Code](https://github.com/MixedRealityETHZ/Let-Objects-vanish-)]
 
 <img src="../images/MR_Demo_480p_high.gif" alt="Project Profile" width="600px">
 
@@ -56,7 +56,7 @@ Advisors: [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc
 Course project for [3D Vision](https://cvg.ethz.ch/lectures/3D-vision/2023)\
 <strong>Shi Chen</strong>, Guo Han, Liuxin Qing, Longteng Duan\
 Advisors: [Dr. Erik Sandström](https://www.linkedin.com/in/eriksandstr%C3%B6m/?originalSubdomain=ch), [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald)\
-[[Poster](https://drive.google.com/file/d/1wzSkARcx3P5Qbd0TNvlhbOsPUoHj2Vzi/view?usp=sharing)][[Report](https://drive.google.com/file/d/1FDcjKHl6FhQvz8U-Jh4meelX7jyZOCw5/view?usp=sharing)][[Code](https://github.com/guo-han/Hierarchical-Point-SLAM)]
+[[Poster](/files/poster_3DV.pdf)][[Report](/files/report_3DV.pdf)][[Code](https://github.com/guo-han/Hierarchical-Point-SLAM)]
 
 <img src="../images/pipeline.png" alt="Project Profile" width="600px"> 
 
@@ -72,7 +72,7 @@ A comparison of the resulting neural point cloud reconstructed from ScanNet scen
 Course Project for [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html)\
 <strong>Shi Chen</strong>, Bowei Liu, Hanyu Wu, Kehan Wen\
 Supervisor: [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html)\
-[[Demo(KITTI)](https://youtu.be/Vox3zYr6nsY)][[Demo(Malaga)](https://youtu.be/7Sj3SLY8QuU)][[Demo(Parking)](https://youtu.be/MsBfpxU7oRM)][[Report](https://drive.google.com/file/d/13bDmpGg9LLla7kAKFer-LkE74iFlOdF1/view?usp=sharing)]
+[[Demo(KITTI)](https://youtu.be/Vox3zYr6nsY)][[Demo(Malaga)](https://youtu.be/7Sj3SLY8QuU)][[Demo(Parking)](https://youtu.be/MsBfpxU7oRM)][[Report](/files/VAMR_mini_project_Report_Chen_Liu_Wen_Wu.pdf)]
 
 <img src="../images/short_demo_vamr_1080p_clipped.gif" alt="Project Profile" width="600px"> 
 
@@ -82,7 +82,7 @@ Supervisor: [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.h
 ## Road Scene Pedestrian Relocation for Data Augmentation
 Bachelor's thesis\
 Supervisors: [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html)\
-[[Slides](https://docs.google.com/presentation/d/1bg_G56CoQo9WNpZ6m22G0dT58Pk4f-1t/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/18VdXkPMt8bhMKF_6RRhEXWqs8JwxN1KQ/view?usp=sharing)]
+[[Slides](/files/presentation_schen.pdf)][[Thesis](/files/2021_sotsuron_schen-compressed.pdf)]
 
 <img src="../images/ped_relocation_demo.gif" alt="Project Profile" width="600px"> 
 

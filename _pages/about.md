@@ -90,6 +90,15 @@ Supervisors: [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), [Prof. Sho
 * Proposed method improves Mask R-CNN in both detection and instance segmentation of far-away pedestrians.
 
 
+# Miscellaneous
+
+I was born into a Chinese family in Yokohama, Japan, and spent my childhood there, so I am fluent in both Mandarin Chinese and Japanese. I can also speak some (洋泾浜) Shanghainese and (エセ) Kansai dialects.
+
+I’m a big fan of Karaoke and J-POP music. My favorite artists include BUMP OF CHICKEN, Hikaru Utada, Kenshi Yonezu, King Gnu, Mr.Children, Sakanaction, Gen Hoshino, and TOMOO. It can take forever if you ask me for J-POP recommendations.
+
+I enjoy watching soccer, basketball and tennis games. Not going to reveal here which teams I support, just in case you happen to root for their rivalry teams.
+
+
 <!-- <div style="position: relative; width: 50%;"> -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aUC6fp8rqaSrFcwyDFETbMrtTqFEd_O3X3c24LLPEo0&cl=ffffff&w=a" width="200px"></script>
 <!-- </div> -->

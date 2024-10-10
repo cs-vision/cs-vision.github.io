@@ -21,7 +21,7 @@ My research interests lie in 3D vision, particularly in 3D/4D reconstruction and
 ## MonoDy-GS: Online Monocular Dynamic Gaussian Splatting
 Semester project in Spring 2024\
 Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald), [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)\
-[[Slides](https://docs.google.com/presentation/d/1ZZd8p6BkW4RnKngYMYzRbbVutVYvALn3/edit?usp=sharing&ouid=104949219375841160899&rtpof=true&sd=true)][[Report](https://drive.google.com/file/d/1gT9UEBXINQKWijlRGbQHlopQxDnClZ-u/view?usp=sharing)]
+[[Slides](/files/MonoDy-GS_presentation_static.pdf)][[Report](/files/MonoDy_GS_report_ShiChen_0920.pdf)]
 
 <img src="../images/tum_sitting_demo_square.gif" alt="Project Profile" width="600px"> 
 

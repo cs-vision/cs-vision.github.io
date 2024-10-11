@@ -94,7 +94,7 @@ Supervisors: [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), [Prof. Sho
 
 I was born into a Chinese family in Yokohama, Japan, and spent my childhood there, so I am fluent in both Mandarin Chinese and Japanese. I can also speak some (洋泾浜) Shanghainese and (エセ) Kansai dialects.
 
-I’m a big fan of Karaoke and J-POP music. My favorite artists include BUMP OF CHICKEN, Hikaru Utada, Kenshi Yonezu, King Gnu, Mr.Children, Sakanaction, Gen Hoshino, and TOMOO. It can take forever if you ask me for J-POP recommendations.
+I’m a big fan of Karaoke and J-POP music. My favorite artists include BUMP OF CHICKEN, Hikaru Utada, Tokyo Incidents, Kenshi Yonezu, King Gnu, Mr.Children, Sakanaction, Gen Hoshino, and TOMOO. It can take forever if you ask me for J-POP recommendations.
 
 I enjoy watching soccer, basketball and tennis games. Not going to reveal here which teams I support, just in case you happen to root for their rivalry teams.
 

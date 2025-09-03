@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am currently pursuing a master's degree in Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html). Previously, I completed my Bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked on my thesis under the supervision of [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html).
+Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am a first-year PhD student at the [Mobile Robotics Lab (MRL)](https://mrl.ethz.ch/) of [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Dr. Stefan Leutenegger](https://mrl.ethz.ch/the-group/people/lab-members/stefan-leutenegger.html). Previously, I completed my bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I finished my thesis under the supervision of [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html), and my master's at ETH, where I worked mainly with [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/) and [Prof. Martin R. Oswald](https://oswaldm.github.io/).
 
 My research interests lie in 3D vision, particularly in 3D/4D reconstruction and visual SLAM. My current goal is to enable the creation of immersive, interactive, and physically plausible digital copies of the dynamic world. Beyond that, I am fascinated by the idea of endowing machines with [spatial intelligence](https://www.worldlabs.ai/about).
 
 # Education
 
-* 2022 - Present, M.Sc. Electrical Engineering and Information Technology, ETH Zurich, Switzerland.
+* 2025 - Present, Ph.D. Mechanical and Process Engineering, ETH Zurich, Switzerland.
+* 2022 - 2025, M.Sc. Electrical Engineering and Information Technology, ETH Zurich, Switzerland.
 * 2018 - 2022, B.E. Electrical and Electronic Engineering, Kyoto University, Japan.
 
 # Selected Projects
@@ -96,7 +97,7 @@ I was born into a Chinese family in Yokohama, Japan, and spent my childhood ther
 
 I’m a big fan of Karaoke and J-POP music. My favorite artists include BUMP OF CHICKEN, Hikaru Utada, Tokyo Incidents, Kenshi Yonezu, King Gnu, Mr.Children, Sakanaction, Gen Hoshino, and TOMOO. It can take forever if you ask me for J-POP recommendations.
 
-I enjoy watching soccer, basketball and tennis games. Not going to reveal here which teams I support, just in case you happen to root for their rival teams.
+I enjoy watching football (soccer), basketball and tennis games. Not going to reveal here which teams I support, just in case you happen to root for their rival teams.
 
 
 <!-- <div style="position: relative; width: 50%;"> -->

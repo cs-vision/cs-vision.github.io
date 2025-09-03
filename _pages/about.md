@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! My name is Shi Chen (Simplified Chinese: 陈实, Japanese: 陳 実). I am a first-year PhD student at the [Mobile Robotics Lab (MRL)](https://mrl.ethz.ch/) of [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Dr. Stefan Leutenegger](https://mrl.ethz.ch/the-group/people/lab-members/stefan-leutenegger.html). Previously, I completed my bachelor's degree at [Kyoto University](https://www.kyoto-u.ac.jp/en), where I finished my thesis under the supervision of [Prof. Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/) and [Prof. Shohei Nobuhara](https://shohei.nobuhara.org/index.en.html), and my master's at ETH, where I worked mainly with [Dr. Danda Pani Paudel](https://insait.ai/dr-danda-paudel/) and [Prof. Martin R. Oswald](https://oswaldm.github.io/).
 
-My research interests lie in 3D vision, particularly in 3D/4D reconstruction and visual SLAM. My current goal is to enable the creation of immersive, interactive, and physically plausible digital copies of the dynamic world. Beyond that, I am fascinated by the idea of endowing machines with [spatial intelligence](https://www.worldlabs.ai/about).
+My research interests lie in 3D vision, with a particular focus on reconstruction, understanding and reasoning of dynamic scenes. At MRL, I aim to push the boundaries of [Spatial AI](https://mrl.ethz.ch/research/research-topics/spatial-ai.html) by endowing robots with physics-aware perception of dynamic environments.
 
 # Education
 

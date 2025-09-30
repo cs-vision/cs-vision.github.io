@@ -19,6 +19,16 @@ My research interests lie in 3D vision, with a particular focus on reconstructio
 
 # Selected Projects
 
+## ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos
+Master's thesis and NeurIPS 2025\
+Advisors: [Dr. Erik Sandström](https://www.linkedin.com/in/eriksandstr%C3%B6m/?originalSubdomain=ch), [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Siyuan Li](https://siyuanliii.github.io/), [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald)\
+[[arXiv](https://arxiv.org/abs/2509.17864)][[Project Page](https://cs-vision.github.io/ProDyG.github.io/#)]
+
+<img src="../images/qualitative_video_no_cover.gif" alt="Project Profile" width="600px">
+
+* Online dynamic scene reconstruction pipeline using 3D Gaussian Splatting from unposed monocular videos.
+* Yields novel view renderings competitive to offline methods and achieves on-par tracking with state-of-the-art dynamic SLAM methods.
+
 ## MonoDy-GS: Online Monocular Dynamic Gaussian Splatting
 Semester project in Spring 2024\
 Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald), [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/)\
@@ -27,7 +37,7 @@ Advisors: [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald),
 <img src="../images/tum_sitting_demo_square.gif" alt="Project Profile" width="600px"> 
 
 * An online system using 3D Gaussians to model dynamic scenes from monocular RGB-D inputs.
-* Incorporated various real-world priors to compensate for the lack of multiview information
+* Incorporated various real-world priors to compensate for the lack of multiview information.
 
 
 ## EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM

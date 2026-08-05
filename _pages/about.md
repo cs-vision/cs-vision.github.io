@@ -20,7 +20,7 @@ My research interests lie in 3D vision, with a particular focus on reconstructio
 # Selected Projects
 
 ## ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos
-Master's thesis and NeurIPS 2025\
+Master's thesis (ETH Medal 2026 recipient) and NeurIPS 2025\
 Advisors: [Dr. Erik Sandström](https://www.linkedin.com/in/eriksandstr%C3%B6m/?originalSubdomain=ch), [Dr. Sandro Lombardi](https://www.sandrolombardi.com/en/), [Siyuan Li](https://siyuanliii.github.io/), [Prof. Martin R. Oswald](https://cvg.ethz.ch/team/Dr-Martin-R-Oswald)\
 [[arXiv](https://arxiv.org/abs/2509.17864)][[Project Page](https://cs-vision.github.io/ProDyG.github.io/#)]
 
